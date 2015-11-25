@@ -1,0 +1,11 @@
+{
+  "name": "wordflows_01",
+  "version": "0.0.1",
+  "description": "Project learning workflow",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Rob Winter"
+}

@@ -1,0 +1,4 @@
+Pathway to this directory
+
+
+cd /Users/robwinter/Documents_Working/WebProjectWorkflows_02/wordflows_01
