@@ -2,3 +2,5 @@ Pathway to this directory
 
 
 cd /Users/robwinter/Documents_Working/WebProjectWorkflows_02/wordflows_01
+
+Compass seems to have taken out embedded source maps and only uses created source maps
